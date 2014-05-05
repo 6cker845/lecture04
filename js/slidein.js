@@ -9,7 +9,6 @@ var startSlideinFoxkeh = function(){
 	foxkeh.setAttribute("class", "slidein");
 	//slideinをクラスに設定。slideinの振る舞いはcssに記述してある。アニメーションが始まる。
 
-	//aaaaa
 	foxkeh.addEventListener("animationend", endSlideinFoxkeh);
 	//
 };
